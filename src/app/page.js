@@ -1,3 +1,5 @@
+"use client"
+
 import CardsSection from './_Components/card'
 import Footer from './_Components/Footer'
 import Header from './_Components/Header'
